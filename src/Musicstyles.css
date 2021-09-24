@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
+.heading {
+  color: teal;
+  font-size: 45px;
+}
+.description {
+  color: teal;
+  width: 70%;
+  margin: auto;
+  padding: 0rem 0rem 2rem 0rem;
+}
+.buttons {
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+  background-color: teal;
+  font-weight: bold;
+  font-size: 17px;
+  cursor: pointer;
+}
+.result {
+  list-style-type: none;
+  text-align: left;
+  margin: 1rem;
+  line-height: 0.5rem;
+}
+.result li {
+  margin: 2rem 0rem 0rem 0rem;
+  border-top: 2px solid teal;
+  border-bottom: 2px solid teal;
+  padding: 0.3rem 2rem;
+}
+.result li h2 {
+  color: teal;
+}
+.result li h4 {
+  color: whitesmoke;
+}
+.result li a {
+  text-decoration: none;
+  color: red;
+}
+footer {
+  text-align: center;
+  color: teal;
+}
